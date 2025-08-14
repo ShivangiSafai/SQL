@@ -1,0 +1,11 @@
+
+The Hotel Management System is a database-driven application designed to handle the day-to-day operations of a hotel efficiently. It manages customer bookings, room availability, check-ins, check-outs, billing, and staff details in a structured and secure manner. The system ensures smooth handling of reservations, dynamic room allocation, and accurate tracking of guest stays, thereby reducing manual errors and improving overall service quality.
+
+SQL forms the backbone of this project, as all customer, room, and booking information is stored in relational tables. CRUD operations are extensively implemented:
+
+
+Advanced SQL functions are incorporated to enhance functionality, such as using aggregate functions to generate daily revenue reports, JOIN operations to link customer and booking data, triggers to automatically update room availability after check-in or check-out, and stored procedures to handle complex queries like dynamic room allocation. Constraints ensure data integrity, while indexing improves query performance for large datasets.
+
+This project highlights how SQL can provide a reliable, scalable, and efficient solution for managing hotel operations.
+
+
