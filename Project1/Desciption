@@ -1,0 +1,7 @@
+With the advancement of technology, innovative approaches such as Machine Learning and Deep Learning are being integrated into agriculture to help farmers increase productivity and maximize yield.
+
+This project presents a website that incorporates three key applications: Crop Recommendation, Fertilizer Recommendation, and Plant Disease Prediction.
+
+In the Crop Recommendation application, users provide soil data as input, and the system predicts the most suitable crop to grow. The Fertilizer Recommendation application allows users to input soil data along with the crop type being cultivated; the system then analyzes whether the soil lacks or contains an excess of certain nutrients and recommends appropriate improvements. The Plant Disease Prediction application enables users to upload an image of a diseased plant leaf. The system identifies the disease, provides background information about it, and suggests possible remedies.
+
+SQL is utilized in this project to manage and store agricultural data efficiently. User inputs, such as soil parameters, crop details, and fertilizer requirements, are stored in a structured database, ensuring data consistency and easy retrieval. The database also supports integration with the machine learning models by providing clean, organized datasets for training and predictions. This structured storage facilitates scalability, allowing the system to handle large volumes of user data and deliver accurate recommendations.
